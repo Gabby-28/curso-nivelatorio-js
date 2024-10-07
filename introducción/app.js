@@ -5,5 +5,4 @@ button.addEventListener("click", function(){
 
 });
 
-// let main_div =document.querySelector('.main_div');
 
